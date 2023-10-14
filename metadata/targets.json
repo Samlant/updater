@@ -1,0 +1,34 @@
+{
+ "signatures": [
+  {
+   "keyid": "fe8ac3e8cf879a2cb22d50098d98dbc85a3012f0bfe394636ebafea5836f1ff5",
+   "sig": "41519f398537cb43522d3a6b6363ab921110398bbfc2fffabc2a3818f8a33bcb1a0f7caed2e20176b74c28ae41c072e37409771f7491cb646d1a4821b6d24d09"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2023-10-21T15:52:43Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "my_app-1.0.tar.gz": {
+    "hashes": {
+     "sha256": "11f326f209af3309e95120832d094736f3ab89804e69139a69c5e0e25843156f"
+    },
+    "length": 14510416
+   },
+   "my_app-2.0.patch": {
+    "hashes": {
+     "sha256": "2072018a050983321881f35809585c2aecfbb4a16837e0a38c17ea4b2ba6ce86"
+    },
+    "length": 8733620
+   },
+   "my_app-2.0.tar.gz": {
+    "hashes": {
+     "sha256": "414c6d0fda8f53f3510e77601805ad10648b6dd938d58833264b45f12b5d1e4d"
+    },
+    "length": 14510383
+   }
+  },
+  "version": 3
+ }
+}
