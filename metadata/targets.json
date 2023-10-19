@@ -1,20 +1,20 @@
 {
  "signatures": [
   {
-   "keyid": "a787d3c7ac15f9d04fc769f8854efe221241a5c574c85a0c48ea25b80061dcee",
-   "sig": "2d33bb79a5771bd51b8aa576334a01a087d610c7890d5cefc0fc7b2a9ca96694c18dcd89eb2363e68af044ae06bd9e1d8e50a13d892630f96fee86acf1d3d002"
+   "keyid": "c480ab57a780a63a2da30ea2fd8058387254c1d95e2e831f131ae6e1dfe3e049",
+   "sig": "512eab03d446854c46698598e5656a73b68ee95da4a3d6329ce855999e9ebf372b30d9ee733744305f6167a586af8296b2ac1c9dc2a39843fb51a00070a35a08"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2023-10-26T02:01:58Z",
+  "expires": "2023-10-26T02:55:30Z",
   "spec_version": "1.0.31",
   "targets": {
    "my_app-1.0.tar.gz": {
     "hashes": {
-     "sha256": "0dfd26099c67d424cc5b99c019c982e57fad2cb6ad2c9aef33b16aa9df3ec23d"
+     "sha256": "3da2d0d434ded2f8162d6845dfd5a343ba463cd0e4029bc59735def220e2d761"
     },
-    "length": 14510405
+    "length": 14510396
    }
   },
   "version": 2
