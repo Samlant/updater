@@ -2,12 +2,12 @@
  "signatures": [
   {
    "keyid": "c480ab57a780a63a2da30ea2fd8058387254c1d95e2e831f131ae6e1dfe3e049",
-   "sig": "512eab03d446854c46698598e5656a73b68ee95da4a3d6329ce855999e9ebf372b30d9ee733744305f6167a586af8296b2ac1c9dc2a39843fb51a00070a35a08"
+   "sig": "bb6a8c07e0de9f567aacc916d17fa7bad60d8b1ef011a4c32d70a8c74946a8ff13577d43e02a54a50645a5c2ad2d33866c5887d37a2328e785d2e6305b57550b"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2023-10-26T02:55:30Z",
+  "expires": "2023-10-26T03:02:22Z",
   "spec_version": "1.0.31",
   "targets": {
    "my_app-1.0.tar.gz": {
@@ -15,8 +15,20 @@
      "sha256": "3da2d0d434ded2f8162d6845dfd5a343ba463cd0e4029bc59735def220e2d761"
     },
     "length": 14510396
+   },
+   "my_app-2.0.patch": {
+    "hashes": {
+     "sha256": "dded578ad47f434d2ccd7bad3f3c3dcad6bd34f9af38a08bec6225433644b408"
+    },
+    "length": 8587422
+   },
+   "my_app-2.0.tar.gz": {
+    "hashes": {
+     "sha256": "0efbaef26ae8b1916fbd4e348ebdd850631a6eb2ae37373c4c77b9fa18fbc2a0"
+    },
+    "length": 14510410
    }
   },
-  "version": 2
+  "version": 3
  }
 }
