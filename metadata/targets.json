@@ -1,34 +1,22 @@
 {
  "signatures": [
   {
-   "keyid": "c480ab57a780a63a2da30ea2fd8058387254c1d95e2e831f131ae6e1dfe3e049",
-   "sig": "bb6a8c07e0de9f567aacc916d17fa7bad60d8b1ef011a4c32d70a8c74946a8ff13577d43e02a54a50645a5c2ad2d33866c5887d37a2328e785d2e6305b57550b"
+   "keyid": "cc48f0530d6bafe5b9409cb7593643514cef0584f1f3da9cd47f9e1044d2a93c",
+   "sig": "6740bd764258102f65acf56ce06c7b398cc13b284a7dd214f678906db72c128bd20d7c7a426fa094a1b8eeda0bbd3fa122d75c3172bbc5996ed7ac0ac7d8ef07"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2023-10-26T03:02:22Z",
+  "expires": "2023-11-05T17:10:37Z",
   "spec_version": "1.0.31",
   "targets": {
-   "my_app-1.0.tar.gz": {
+   "QuickDraw-3.0.0.tar.gz": {
     "hashes": {
-     "sha256": "3da2d0d434ded2f8162d6845dfd5a343ba463cd0e4029bc59735def220e2d761"
+     "sha256": "31ff73e145c074759280504316189062d014d993d8c872289b489b6cfb81f3f0"
     },
-    "length": 14510396
-   },
-   "my_app-2.0.patch": {
-    "hashes": {
-     "sha256": "dded578ad47f434d2ccd7bad3f3c3dcad6bd34f9af38a08bec6225433644b408"
-    },
-    "length": 8587422
-   },
-   "my_app-2.0.tar.gz": {
-    "hashes": {
-     "sha256": "0efbaef26ae8b1916fbd4e348ebdd850631a6eb2ae37373c4c77b9fa18fbc2a0"
-    },
-    "length": 14510410
+    "length": 43744893
    }
   },
-  "version": 3
+  "version": 2
  }
 }
